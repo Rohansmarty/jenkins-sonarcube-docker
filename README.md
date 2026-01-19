@@ -20,7 +20,7 @@ A modern, responsive shopping cart UI implementation built with React and Vite.
 ```bash
 npm install
 ```
-
+     
 2. Start the development server:
 ```bash
 npm run dev
