@@ -5,7 +5,7 @@
 A modern, responsive shopping cart UI implementation built with React and Vite.
 
 ### Features
-
+   
 - 🛒 Add products to cart
 - ➕➖ Update item quantities
 - 🗑️ Remove items from cart
